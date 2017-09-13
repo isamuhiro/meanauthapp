@@ -27,38 +27,15 @@ Then you should run the follow command line on your terminal
 
 ```
 $ cd meanauthapp
-$ npm start
+$ npm install
 ```
 
-## Running the tests
+## Usage
 
-Explain how to run the automated tests for this system
+Once the installation has finished, you should run an ```$ npm start```
 
-### Break down into end to end tests
+and then go to ```localhost:8080```
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
 ## Contributing
 
