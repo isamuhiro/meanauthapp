@@ -43,7 +43,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Author
 
-* **Isamu Hiro** - *Profile* - [PurpleBooth](https://github.com/isamuhiro)
+* [Isamu Hiro](https://github.com/isamuhiro)
 
 ## License
 
