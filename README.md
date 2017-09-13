@@ -1,6 +1,6 @@
-# Project Title
+# Mean Autentication Application Boilerplate
 
-One Paragraph of project description goes here
+Just a simple mean authentication made from scratch for educational purpouse
 
 ## Getting Started
 
@@ -8,29 +8,27 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+You must have those programs on your local machine to follow the lessons
 
 ```
-Give examples
+* NodeJS (npm) 
+* MongoDB
+* Git
+* Docker (optional)
 ```
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
-
-Say what the step will be
-
 ```
-Give the example
+git clone https://github.com/isamuhiro/meanauthapp.git
 ```
 
-And repeat
+Then you should run the follow command line on your terminal
 
 ```
-until finished
+$ cd meanauthapp
+$ npm start
 ```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## Running the tests
 
